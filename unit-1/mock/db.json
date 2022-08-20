@@ -1,0 +1,22 @@
+{
+    "posts": [
+      {
+        "country": "India",
+        "city": "Delhi",
+        "population": "33255555",
+        "id": 2
+      },
+      {
+        "country": "Br",
+        "city": "mumbai",
+        "population": "5",
+        "id": 3
+      },
+      {
+        "country": "Usa",
+        "city": "pune",
+        "population": "111",
+        "id": 4
+      }
+    ]
+  }

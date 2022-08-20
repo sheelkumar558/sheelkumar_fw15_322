@@ -1,0 +1,50 @@
+.btn {
+  color: black;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.white {
+  background-color: rgb(160, 158, 158);
+}
+
+.red {
+  background-color: crimson;
+}
+
+.yellow {
+  background-color: yellow;
+}
+.orange {
+  background-color: orange;
+}
+.green {
+  background-color: green;
+}
+
+.solid {
+  border: none;
+}
+
+.ghost {
+  border: none;
+}
+.ghost:hover {
+  background-color: rgb(97, 255, 255);
+}
+
+.outline {
+  border: 1px solid black;
+}
+
+.sm {
+  font-size: small;
+}
+.md {
+  font-size: medium;
+}
+.lg {
+  font-size: large;
+}
+.xl {
+  font-size: larger;
+}

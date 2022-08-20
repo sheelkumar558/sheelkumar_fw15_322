@@ -1,0 +1,34 @@
+body{
+
+    padding: 0;
+    background-color: aquamarine;
+}
+.main-cont{
+   display: grid;
+   margin: auto;
+   border: 2px solid red;
+   grid-template-rows: 100px 200px;
+}
+#first{
+  border: 2px solid rgb(201, 193, 193); 
+  display: flex;
+  width: 500px;
+  height: 70px;
+  justify-content: space-evenly;
+}
+.first-div{
+    width: 100px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#second{
+    display: grid;
+    grid-template-columns: repeat(5,100px);
+}
+.main{
+    border: 1px solid rgb(137, 113, 113);
+    background-color: black;
+    color: white;
+    text-align: center;
+}

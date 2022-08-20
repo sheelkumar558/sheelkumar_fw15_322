@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Buy milk",
+      "status": false
+    },
+    {
+      "title": "lgg",
+      "status": true,
+      "id": 2
+    },
+    {
+      "title": "kuch bhi",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "testing",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "helllo",
+      "status": true,
+      "id": 5
+    },
+    {
+      "title": "hero",
+      "status": true,
+      "id": 6
+    }
+  ]
+}
